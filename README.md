@@ -21,3 +21,5 @@ Welcome to my GitHub page.
 <a href="https://github.com/derpierre65">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derpierre65&theme=dracula&title_color=e91e63&bg_color=161b22&hide_border=true&count_private=true" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=your-github-derpierre65&label=Profile+views)
