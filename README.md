@@ -55,16 +55,25 @@ Welcome to my GitHub page.
 ![Git](https://img.shields.io/badge/git-f05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-4930bd.svg?style=for-the-badge&logo=eslint&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-%23362d59.svg?style=for-the-badge&logo=sentry&logoColor=white)
-![Jetbrains Products](https://img.shields.io/badge/jetbrains%20products-%23e72297.svg?style=for-the-badge&logo=jetbrains&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-%238274f7.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%233069de.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%231b74ba.svg?style=for-the-badge&logo=webpack&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23c53635.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Jetbrains Products](https://img.shields.io/badge/jetbrains%20products-%23e72297.svg?style=for-the-badge&logo=jetbrains&logoColor=black)
+
+### APIs
+
+![Twitch](https://img.shields.io/badge/Twitch-%239146ff.svg?style=for-the-badge&logo=twitch&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-%2313386c.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-%2339bce4.svg?style=for-the-badge&logo=slack)
+![Spotify](https://img.shields.io/badge/Spotify-%231db954.svg?style=for-the-badge&logo=spotify&logoColor=white)
+![Amazon Polly](https://img.shields.io/badge/Amazon%20Polly-%234f7bf7.svg?style=for-the-badge)
 
 ### Other
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23323330.svg?style=for-the-badge&logo=unity)
+![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-%23323330.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## GitHub Stats
 
