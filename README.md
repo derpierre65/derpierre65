@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page.
 
-- 🔭 I’m currently working on a MMORPG.
+- 🔭 I’m currently working on a Tower Defense Action-RPG Game.
 - 🌱 I’m currently learning Deployment over Kubernetes and more about game development.
 - 🏠 I'm living in Belmullet, Ireland. Grew up in Berlin, Germany.
 - 🛠️ I'm working as a Software Developer.
