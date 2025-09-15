@@ -15,6 +15,8 @@ Welcome to my GitHub page.
 - ⚡ Fun fact: ...
 -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=derpierre65&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Languages and Tools
 
 ### Backend
